@@ -1,0 +1,1 @@
+A webapp the dispplays both max e minimun numbers.
